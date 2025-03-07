@@ -1,0 +1,178 @@
+ 
+    .logo{
+        width: 130px;
+        height: 19px;
+        padding-top: 13px;
+        padding-left: 10px;
+        margin-left: 190px;
+
+    }
+    .sites{
+        font-family: Arial, sans-serif;
+        font-weight: 400px;
+        font-size: 16px;
+        color: rgb(102, 102, 102);
+        display: inline;
+        margin-left: 500px;
+    }
+    .about{
+       
+        margin-left: 37px;
+    }
+    .product{
+        margin-left: 37px;
+    }
+    .active{
+        margin-left: 37px;
+    }
+    .support{
+        margin-left: 37px;
+        margin-right: 0px;
+    }
+
+    .charges{
+        font-family: "Inter", serif;
+        font-size:50px ;
+        margin-bottom: 7px;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 0px;
+    }
+    .listofall{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color: #9b9b9b;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        line-height: 1.8;
+        text-align: center;
+
+    }
+    .header h1 {
+        font-size: 2.5rem;
+        color: #424242;
+        margin-bottom: 10px;
+        font-weight: 500;
+        letter-spacing:2px;
+      }
+      
+      .header p {
+        color: rgb(155, 155, 155);
+        font-size: 20px;
+        margin-top: 20px;
+        letter-spacing: 1.5px;
+      }
+      
+      .charges-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+        margin-top: 100px;
+      }
+      
+      .charge-card {
+        text-align: center;
+        padding: 20px;
+        size: 500px;
+      }
+      
+      .price {
+        position: relative;
+        display: inline-block;
+        margin-bottom: 20px;
+      }
+      .img1{
+        width: 250px;
+      }
+      
+      .free{
+        color: rgb(66, 66, 66);
+        display: block;
+        font-size: 28px;
+        font-weight: bold;
+        letter-spacing: 1.5px;
+        margin-bottom: 40pxpx;
+        width: 300px;
+        padding-bottom: 0px;
+        font-family: "Inter", serif;
+      }
+      
+      .img2{
+        width: 290px;
+        vertical-align: middle;
+        margin-left: 40px;
+      }
+      
+      .all{
+        font-family: "Inter", serif;
+        font-size: 1rem;
+        color: #666;
+        padding-top: 0px;
+        width: 310px;
+        line-height: 28.8px;
+        vertical-align: top;
+      }
+      .p2{
+        font-family: "Inter", serif;
+        font-size: 1rem;
+        color: #666;
+        margin-top: 10px;
+        width: 310px;
+        line-height: 28.8px;
+        vertical-align: top;
+        
+      }
+      .img3{
+        width: 250px;
+      }
+      .ls{
+        letter-spacing:1.5px;
+        font-family: "Inter", serif;
+        color: #666;
+      }
+      .header h1 {
+        font-size: 2rem;
+    }
+    
+    .charge-card {
+        padding: 15px;
+    }
+    main {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 60px 20px;
+      }
+      
+      .header {
+        text-align: center;
+        margin-bottom: 60px;
+        margin-top: 10px;
+        margin-bottom:100px;
+      }
+      
+      .header h1 {
+        font-size: 2.5rem;
+        color: #424242;
+        margin-bottom: 10px;
+        font-weight: 500;
+        letter-spacing:2px;
+      }
+      .cursor-pointer{
+        position: absolute;
+        top: 20px;
+        right: -10px;
+        width: 250px;
+        height: 10px;
+      }
+      .navbar{
+        box-shadow: 8px 2px 4px #0e0e0e1a;
+        background-color: white;
+        position: fixed;
+        height: 60px;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+      }
+
+        
+      
