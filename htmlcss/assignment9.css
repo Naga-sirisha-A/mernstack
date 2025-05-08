@@ -1,0 +1,126 @@
+.red{
+    background-color: rgb(249, 32, 32);
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.para{
+    font-family: Arial;
+}
+.box{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+.card{
+    border-width :1px ;
+    background-color: black;
+    width: 300px;
+}
+.para2{
+    color: aliceblue;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight:bold;
+    padding-top: 10px;
+    padding-left:10px;
+}
+.para3{
+    font-family: Arial;
+    width:220px;
+    font-size: 10px;
+    padding-left:10px;
+    padding-bottom:15px;
+    color: rgb(157, 155, 155);
+}
+.cat{
+    width: 39px;
+    height:39px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.para4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(74, 70, 70);
+    display: inline;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.catphoto{
+
+    border-radius :4px;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    vertical-align: middle;
+    border-width: 1px;
+    width:450px;
+    margin-bottom: 15px;
+}
+.bb{
+    color: white;
+    background-color:  rgb(24, 123, 189);
+    border-style: solid;
+    border:none;
+    border-radius: 20px;
+    width: 60px;
+    height: 30px;
+    vertical-align: middle;
+    margin-left: 190px;
+   
+
+}
+.cat-profile{
+    display: inline-block;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.adfrd{
+    color:white;
+    background-color: blue;
+    border-radius: 4px;
+    border-style: solid;
+    border: none;
+    padding: 3px 3px 3px 3px;
+}
+.cat1{
+    object-fit: cover;
+    object-position: center;
+    width:200px;
+    height: 135px;
+} 
+.cat2{
+    object-fit: cover;
+    object-position: center;
+    width:200px;
+    height: 135px;
+   
+} 
+.cat3{
+    object-fit: contain;
+    object-position: center;
+    width: 183px;
+    height: 135px;
+
+}
+.singlecat{
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    
+}
